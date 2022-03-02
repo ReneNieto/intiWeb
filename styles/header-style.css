@@ -1,0 +1,25 @@
+.logo {
+	font-weight: 600;
+	font-size: 28px;
+	line-height: 33px;
+}
+.nav-item a {
+	text-decoration: none !important;
+	color: var(--black) !important;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 19px;
+	text-align: center;
+}
+
+.contact-btn {
+	background-color: var(--white) !important;
+	border-radius: none !important;
+	padding-block: 14px !important;
+	padding-inline: 10px !important;
+	font-weight: normal !important;
+	font-size: 15px !important;
+	line-height: 18px !important;
+	text-align: center !important;
+	border: 1px solid var(--gray500) !important;
+}

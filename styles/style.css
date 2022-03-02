@@ -1,0 +1,18 @@
+:root {
+	--black: #000000;
+	--gray700: #4f4f4f;
+	--gray500: #828282;
+	--gray300: #c4c4c4;
+	--gray200: #f2f2f2;
+	--white: #ffffff;
+}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Roboto";
+}
+
+@import "main-title-style.css";
+@import "header-style.css";
+@import "main-whoweare-style.css";

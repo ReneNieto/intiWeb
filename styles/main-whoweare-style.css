@@ -1,0 +1,11 @@
+.main__whoweare-container {
+	width: 100%;
+	background-color: #f2f2f2;
+	padding-inline: 200px;
+	padding: 85px;
+}
+.img {
+	width: 512px;
+	height: 343px;
+	background-color: var(--gray300);
+}
