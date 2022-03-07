@@ -1,6 +1,7 @@
-@import "main-title-style.css";
 @import "header-style.css";
+@import "main-hero-style.css";
 @import "main-whoweare-style.css";
+@import "main-whatwedo-style.css";
 
 :root {
 	--black: #000000;
@@ -9,10 +10,15 @@
 	--gray300: #c4c4c4;
 	--gray200: #f2f2f2;
 	--white: #ffffff;
+	--primary: #d5542e;
+	--tipography: "Roboto";
 }
 * {
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
 	font-family: "Roboto";
+}
+main {
+	background-color: var(--gray200);
 }

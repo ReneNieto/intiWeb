@@ -1,9 +1,27 @@
-.main__whoweare-container {
-	width: 100%;
+.whoweare {
+	padding-inline: 0;
 	background-color: #f2f2f2;
-	padding-inline: 200px;
-	padding: 85px;
 }
+
+.whoweare h2 {
+	font-family: var(--tipography);
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 43px;
+}
+
+.whoweare p {
+	font-family: var(--tipography);
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 24px;
+}
+
+.main__whoweare-container {
+	background-color: #f2f2f2;
+	padding: 85px 0px;
+}
+
 .img {
 	width: 512px;
 	height: 343px;
